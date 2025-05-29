@@ -56,7 +56,7 @@ transaction_approval()
     sleep 0.47
     echo -ne "\r${YELLOW}Validating Transaction..                         "
     sleep 0.30
-    echo -ne "\r${YELLOW}CSecuring the Transaction..                      "
+    echo -ne "\r${YELLOW}Securing the Transaction..                      "
     sleep 0.20
     echo -ne "\r${YELLOW}Finalizing Payment..                             "
     sleep 0.40
