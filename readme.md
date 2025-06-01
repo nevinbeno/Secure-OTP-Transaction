@@ -10,6 +10,9 @@ ___
 A secure, real-time simulation of bank-grade authentication 🔒:<br>
 ![OTP Demo](Gifs/demo.gif "gif demo")<br>
 
+### **Demo of Tests**
+Watch the test suite in action📋:<br>
+![Test Suite Demo](Gifs/test%20suit%20gif.gif "test suites")
 ____
 ## **Features**
 ### 🔐 Security
